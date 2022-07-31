@@ -4,4 +4,4 @@ It is self playable game to make high score. <br>
 Coding Language: Pytorch
 
 
-Steps in Game
+Steps in Game :- 
