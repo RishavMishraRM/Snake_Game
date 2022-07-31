@@ -5,3 +5,4 @@ Coding Language: Pytorch
 
 
 Steps in Game :- 
+- Part 1: 
