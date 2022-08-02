@@ -5,4 +5,4 @@ Coding Language: Pytorch
 
 
 Steps in Game :- 
-- Part 1: basics about Reinforcement Learning and Deep Q Learning.
+- Part 1: Basics of Reinforcement Learning and Deep Q Learning.
