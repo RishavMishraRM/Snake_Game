@@ -6,4 +6,4 @@ Coding Language: Pytorch
 
 Steps in Game :- <br>
 - Part 1: Basics of Reinforcement Learning and Deep Q Learning. <br>
-- Part 2: Environment and implement the Snake game.
+- Part 2: Environment setup and implement the Snake game.
