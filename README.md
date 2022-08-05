@@ -1,6 +1,6 @@
 # Snake_Game
 ####  Teach AI To Play Snake! Reinforcement Learning With PyTorch and Pygame
-It can make high score. <br>
+It can make high score by himself. <br>
 Coding Language: Pytorch
 
 
